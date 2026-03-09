@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Job Portal App with MERN Stack
 
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
@@ -93,3 +94,6 @@ Contributions are what make the open-source community such an amazing place to l
 Abhishek Rajput - [GitHub](https://github.com/exclusiveabhi)
 
 Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
+=======
+# Job-portal
+>>>>>>> fb00f0cf3506bcccc7e625a37578ef3f1613e2dc
