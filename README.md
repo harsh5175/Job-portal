@@ -1,3 +1,3 @@
 # JOB-Portal
 <br>
-Author= Harsh Vardhan Singh
+Author-Harsh Vardhan Singh
